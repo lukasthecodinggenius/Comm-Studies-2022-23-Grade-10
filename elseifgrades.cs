@@ -31,7 +31,7 @@ public class Program
             }  
      else if (num >= 90 && num <= 100)  
             {  
-   Console.WriteLine("wow your a smart person you got an a plus ");  
+   Console.WriteLine("ooooh your kind of a demonnnn good job a plus thats huge ");  
             }  
         }  
     }  
